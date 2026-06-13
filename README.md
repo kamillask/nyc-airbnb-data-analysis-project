@@ -128,7 +128,9 @@ To improve chart readability, I adjusted the x-axis limits on the Revenue vs.
 Occupancy scatter plot to exclude an outlier that was skewing the visual scale.
 
 ### Summary
-![Summary Dashboard](NYC AirBNB Visualization-1.png)
+
+![Summary Dashboard](NYC%20AirBNB%20Visualization-1.png)
+
 - High-level KPIs across all listings (average revenue: $20.28K, occupancy: 31%, nightly rate: $170.23, overall rating: 4.78). 
 
 - Compares average revenue by Superhost status, Guest Favorite status, and room type, with a geographic map of listings and a revenue-occupancy scatter plot.
