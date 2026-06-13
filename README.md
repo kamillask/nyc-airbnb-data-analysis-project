@@ -136,6 +136,7 @@ Occupancy scatter plot to exclude an outlier that was skewing the visual scale.
 - Compares average revenue by Superhost status, Guest Favorite status, and room type, with a geographic map of listings and a revenue-occupancy scatter plot.
 
 ### Pricing Analysis
+![Summary Dashboard](NYC%20AirBNB%20Visualization-2.png)
 - Examines how price buckets affect occupancy and revenue. Listings priced $100–200 achieved the highest occupancy rates among statistically meaningful groups. 
 
 - Includes a breakdown of average rate and revenue by room type.
@@ -143,6 +144,7 @@ Occupancy scatter plot to exclude an outlier that was skewing the visual scale.
 - Price buckets with fewer than 5 listings were excluded to ensure findings reflect statistically meaningful sample sizes.
 
 ### Guest Experience Analysis
+![Summary Dashboard](NYC%20AirBNB%20Visualization-3.png)
 - Explores what drives overall guest ratings. 
 
 - Contrary to expectations, location and value had the weakest correlation with overall rating, while accuracy, cleanliness, and communication were the strongest predictors. 
@@ -150,6 +152,7 @@ Occupancy scatter plot to exclude an outlier that was skewing the visual scale.
 - Average overall rating across all listings was 4.78 across 45K reviews.
 
 ### Seasonality & Future Performance
+![Summary Dashboard](NYC%20AirBNB%20Visualization-4.png)
 - Compares past and future average revenue and occupancy by month and quarter. 
 
 - Past data shows a Q3 peak consistent with summer travel demand. 
